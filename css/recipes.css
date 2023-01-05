@@ -1,0 +1,19 @@
+* {
+    background-color: #F2CC8F;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h1 {
+   background-color: #3D405B;
+    color: #F4F1DE;
+}
+
+h2 {
+    background-color: #81B29A;
+    color: #F4F1DE;
+}
